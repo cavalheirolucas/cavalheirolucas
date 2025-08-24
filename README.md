@@ -34,7 +34,7 @@ Welcome to my Github!
 
 
 ### Github Stats
-![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github) ![follows](https://img.shields.io/github/followers/guilherminog?style=for-the-badge) ![stars](https://img.shields.io/github/stars/cavalheirolucas?style=for-the-badge) 
+![pro](https://img.shields.io/badge/-PRO-blueviolet?style=for-the-badge&logo=github) ![follows](https://img.shields.io/github/followers/cavalheirolucas?style=for-the-badge) ![stars](https://img.shields.io/github/stars/cavalheirolucas?style=for-the-badge) 
  
  ![stats](https://github-readme-stats.vercel.app/api?username=cavalheirolucas&show_icons=true&theme=light)
  ![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=cavalheirolucas&layout=compact&theme=light)
